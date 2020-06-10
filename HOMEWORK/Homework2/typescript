@@ -1,0 +1,79 @@
+Script started on Fri 14 Feb 2020 12:56:46 AM CST
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework2[?1034h[gd7848by@ahscentos Homework2]$ cal 1 4 2020
+     April 2020     
+Su Mo Tu We Th Fr Sa
+         [7m 1[27m  2  3  4
+ 5  6  7  8  9 10 11
+12 13 14 15 16 17 18
+19 20 21 22 23 24 25
+26 27 28 29 30
+
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework2[gd7848by@ahscentos Homework2]$ cal 1 4 2020[Kg++ -Wall -o dayOfTheWeek.a dayOfTheWeek.cpp 
+[01m[KdayOfTheWeek.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[KdayOfTheWeek.cpp:88:41:[m[K [01;35m[Kwarning: [m[K‘[01m[Ksum[m[K’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+             sum += DaysInMonth::November; // amount of days in november
+[01;32m[K                                         ^[m[K
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework2[gd7848by@ahscentos Homework2]$ ./dayOfTheWeek.a 
+Please enter the current year: 2020
+Please enter the month in number form: 4
+Please enter the day: 1
+3: Wednesday
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework2[gd7848by@ahscentos Homework2]$ ./dayOfTheWeek.a [28@g++ -Wall -o dayOfTheWeek.a dayOfTheWeek.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccal 1 4 2020[K[1P 20206 2020[C[1P[1@2[1@3
+      June 2020     
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 [7m23[27m 24 25 26 27
+28 29 30
+
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework2[gd7848by@ahscentos Homework2]$ cal 23 6 2020./dayOfTheWeek.a 
+Please enter the current year: 2020
+Please enter the month in number form: 6
+Please enter the day: 23
+2: Tuesday
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework2[gd7848by@ahscentos Homework2]$ ./dayOfTheWeek.a [4Pcal 23 6 2020[1P 20201 2020[1P[1P[1@3
+    January 2020    
+Su Mo Tu We Th Fr Sa
+          1  2 [7m 3[27m  4
+ 5  6  7  8  9 10 11
+12 13 14 15 16 17 18
+19 20 21 22 23 24 25
+26 27 28 29 30 31
+
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework2[gd7848by@ahscentos Homework2]$ cal 3 1 2020./dayOfTheWeek.a 
+Please enter the current year: 2020
+Please enter the month in number form: 1
+Please enter the day: 2
+4: Thursday
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework2[gd7848by@ahscentos Homework2]$ ./dayOfTheWeek.a 
+Please enter the current year: 2020
+Please enter the month in number form: 1
+Please enter the day: 3
+5: Friday
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework2[gd7848by@ahscentos Homework2]$ ls[K[Kg++ quadraticFormula.[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K-Wall -o quadraticFormula.a quadraticFormula.cpp 
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework2[gd7848by@ahscentos Homework2]$ ./quadraticFormula.a 
+Please enter a, b, c (seperated by spaces)
+enter all zeros seperated by zeros to exit
+1 31 1  1
+sulutions are: -2.61803, -0.381966
+
+Please enter a, b, c (seperated by spaces)
+enter all zeros seperated by zeros to exit
+^[[A    1 2 1
+The soulution is -1 with a multiplicity of two
+
+Please enter a, b, c (seperated by spaces)
+enter all zeros seperated by zeros to exit
+1 2 3
+There are no real sulutions
+ Imaginary sulutions are: -2.41421i, 0.414214i
+
+Please enter a, b, c (seperated by spaces)
+enter all zeros seperated by zeros to exit
+0 0 0
+Check and make sure everything was entered propperly
+
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework2[gd7848by@ahscentos Homework2]$ exit
+
+Script done on Fri 14 Feb 2020 12:59:24 AM CST

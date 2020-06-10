@@ -1,0 +1,12 @@
+Connor Seemann gd7848by lab 5
+ 1) infinite loop
+ 2) counter
+ 3) post-test loop
+ 4) pre-test loop
+ 5) second, first
+ 6) first, second
+ 7) nested loop
+ 8) #include <fstream>
+ 9) for loop
+10) sentinel value
+11) inner, outer

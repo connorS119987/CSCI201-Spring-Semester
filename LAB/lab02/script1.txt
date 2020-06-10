@@ -1,0 +1,6 @@
+Script started on Wed 29 Jan 2020 09:58:05 AM CST
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab2[?1034h[gd7848by@ahscentos lab2]$ echo helo[Klo
+hello
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab2[gd7848by@ahscentos lab2]$ d[Kexit
+
+Script done on Wed 29 Jan 2020 09:58:16 AM CST

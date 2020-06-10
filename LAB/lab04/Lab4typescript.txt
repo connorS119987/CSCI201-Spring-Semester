@@ -1,0 +1,124 @@
+Script started on Fri 28 Feb 2020 04:32:12 PM CST
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[?1034h[gd7848by@ahscentos lab04]$ g++-[K - WQ[Kall[K[K[K[K[Kw[KWall -o 4-1.cpp [K[K[K[K[K 4-1.cpp 
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-1 [K
+Please enter an integer
+4
+num1 = 4 and num2 = 5
+Dang, better luck next time!
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-1
+Please enter an integer
+2
+num1 = 2 and num2 = 5
+Dang, better luck next time!
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-1
+Please enter an integer
+5
+num1 = 5 and num2 = 5
+Hey, that's a coincidence!
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ g./4-1g++ -Wall -o 4-1 4-1.cpp [1P[1@2[C[1P[1@2
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ g++ -Wall -o 4-2 4-2.cpp ./4-1[K[K2
+Input your grade average:
+40
+You Fail
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-2
+Input your grade average:
+70
+You Pass
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-2
+Input your grade average:
+100
+You Pass
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-2g++ -Wall -o 4-2 4-2.cpp [1P[1@3[1P[1@3
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ g++ -Wall -o 4-3 4-3.cpp ./4-2[K[K3
+What year student are you?
+Enter 1 (freshman), 2 (sophmore), 3 (junior), or 4 (senior)
+
+1
+Now enter your GPA
+3.6
+You need more schooling
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-3
+What year student are you?
+Enter 1 (freshman), 2 (sophmore), 3 (junior), or 4 (senior)
+
+4
+Now enter your GPA
+3.6
+It is time to graduate soon!
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-3
+What year student are you?
+Enter 1 (freshman), 2 (sophmore), 3 (junior), or 4 (senior)
+
+3
+Now enter your GPA
+1.0
+You need more schooling
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-3g++ -Wall -o 4-3 4-3.cpp [1P[1@4[C[1P[1@4
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ g++ -Wall -o 4-4 4-4.cpp ./4-3[K[K4
+What grade did you earn in Programming I?
+Enter A, B, C, D, or F as your grade
+A
+An 'A' - excellent work!
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-4
+What grade did you earn in Programming I?
+Enter A, B, C, D, or F as your grade
+C
+Earning a C is satisfactory
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-4
+What grade did you earn in Programming I?
+Enter A, B, C, D, or F as your grade
+F
+You failed - Better luck next time
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-4g++ -Wall -o 4-4 4-4.cpp [1P[1@5[1@o[1@p[1@1[C[1P[1@5[1@o[1@p[1@1
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ g++ -Wall -o 4-5op1 4-5op1.cpp [K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./4-4[K[K5op1
+Please input your water bill for quarter 1:
+300
+Please input your water bill for quarter 2:
+200
+Please input your water bill for quarter 3:
+250
+Please input your water bill for quarter 4:
+300
+Your average monthly bill is $87.50. You are using excessive amounts of water
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-5op1
+Please input your water bill for quarter 1:
+100
+Please input your water bill for quarter 2:
+75
+Please input your water bill for quarter 3:
+50
+Please input your water bill for quarter 4:
+70
+Your average monthly bill is $24.58! You are using verry little water, good for you!
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-5op1
+Please input your water bill for quarter 1:
+100
+Please input your water bill for quarter 2:
+200
+Please input your water bill for quarter 3:
+100
+Please input your water bill for quarter 4:
+100
+Your average monthly bill is $41.67. You are using the average amount of water
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-5op1g++ -Wall -o 4-5op1 4-5op1.cpp[C[1P.cpp[C2.cpp[C[1P 4-5op2.cpp2 4-5op2.cpp
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ g++ -Wall -o 4-5op2 4-5op2.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./4-5op1[K[K2
+How many shirts would you like?
+10
+The cost per shirt is $10.80 and the total is $108.00
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-5op2
+How many shirts would you like?
+4
+The cost per shirt is $12 and the total is $48
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-5op2
+How many shirts would you like?
+500
+The cost per shirt is $9.00 and the total is $4500.00
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ ./4-5op2
+How many shirts would you like?
+30
+The cost per shirt is $8.40 and the total is $252.00
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ echo Thank you for watching
+Thank you for watching
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab04[gd7848by@ahscentos lab04]$ exit
+
+Script done on Fri 28 Feb 2020 04:35:52 PM CST

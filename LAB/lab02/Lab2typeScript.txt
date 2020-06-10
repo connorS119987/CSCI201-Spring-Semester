@@ -1,0 +1,27 @@
+Script started on Wed 26 Feb 2020 04:28:48 PM CST
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab02[?1034h[gd7848by@ahscentos lab02]$ g++ -1[KWall -o 2-1 2-1.cpp 
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab02[gd7848by@ahscentos lab02]$ ./2-1
+Connor Seemann
+7050 river shore ln
+Champlin, MN 55316
+612-390-8715
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab02[gd7848by@ahscentos lab02]$ g++ -Wall -o 2-2 2-2.cpp 
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab02[gd7848by@ahscentos lab02]$ ./2-2
+The area of the circle is 91.5624
+The circumference of the circle is 33.912
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab02[gd7848by@ahscentos lab02]$ g++ -Wall -o 2-3 2-3.cpp 
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab02[gd7848by@ahscentos lab02]$ 2-[K[K/[K./2-3
+The area of the rectangle is 24
+The perimeter of the rectangle is 22
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab02[gd7848by@ahscentos lab02]$ g++ -Wall -o 2-4 2-4.cpp 
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab02[gd7848by@ahscentos lab02]$ ./2-4
+
+[1;31mThe preferred soda is Water
+The preferred snack is Crackers
+out of 250 people148 chose these items!
+Each of these products were given a rating of A from our expert tasters
+The other products were rated no higher than a B[0m
+
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab02[gd7848by@ahscentos lab02]$ exit
+
+Script done on Wed 26 Feb 2020 04:30:47 PM CST

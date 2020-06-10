@@ -1,0 +1,239 @@
+Script started on Wed 04 Mar 2020 02:01:49 PM CST
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[?1034h[gd7848by@ahscentos lab06]$ ./5-4g++ -Wall -o 5-4 5-4.cpp ./5-3[Kg++ -Wall -o 5-3 5-3.cpp a[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K./5-2g++ -Wall -o 5-2 5-2.cpp ./5-1 [K[19@g++ -Wall -o 5-1 5-1.cpp[C[16Prm a.out[C[3@g++ 5-1.cpp[C[3Prm a.out[C[16@g++ -Wall -o 5-1 5-1.cpp[C./5-1 [K[19@g++ -Wall -o 5-2 5-2.cpp[C./5-2[K[3Plsg++ -Wall -a 5-3 5-3.cpp o[C[C[C[C[C[C[C[C[C[C[C[C[C./5-3[Kg++ -Wall -o 5-4 5-4.cpp ./5-4[K[Kg++ -Wall -o 6-1 6-1.cpp 
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./6-1 
+Now is the time for all good men to come to the aid of their party
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./6-1 [19@g++ -Wall -o 6-1 6-1.cpp[C[1P[1@2[1P[1@2
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ g++ -Wall -o 6-2 6-2.cpp ./6-1 [K[1P 2 
+Given the phrase:
+Now is the time for all good men to come to the aid of their ___
+Input a 1 if you want the sentence to be finished with party
+Input any other number for the word country
+Please input your choice now
+1
+
+Now is the time for all good men to come to the aid of their party
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./6-2 
+Given the phrase:
+Now is the time for all good men to come to the aid of their ___
+Input a 1 if you want the sentence to be finished with party
+Input any other number for the word country
+Please input your choice now
+2
+
+Now is the time for all good men to come to the aid of their country
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./6-2 
+Given the phrase:
+Now is the time for all good men to come to the aid of their ___
+Input a 1 if you want the sentence to be finished with party
+Input any other number for the word country
+Please input your choice now
+f
+
+Now is the time for all good men to come to the aid of their country
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./6-2 [19@g++ -Wall -o 6-2 6-2.cpp[C[1P[1@3[1P[1@3
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ g++ -Wall -o 6-3 6-3.cpp ./6-2 [K[1P 3 
+Welcome to the Pay Roll Program
+************************************************
+
+This program takes two numbers (payRate & hours)
+and multiplies them to get gross pay 
+it then calculates net pay by subtracting 15%
+************************************************
+
+Please input the pay per hour
+15
+
+Please input the number of hours worked
+80
+
+
+The net pay is $1020.00
+We hope you enjoyed this program
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./6-3 
+Welcome to the Pay Roll Program
+************************************************
+
+This program takes two numbers (payRate & hours)
+and multiplies them to get gross pay 
+it then calculates net pay by subtracting 15%
+************************************************
+
+Please input the pay per hour
+21
+
+Please input the number of hours worked
+60
+
+
+The net pay is $1071.00
+We hope you enjoyed this program
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./6-3 [19@g++ -Wall -o 6-3 6-3.cpp[C./6-2 [K[19@g++ -Wall -o 6-2 6-2.cpp[C./6-1 [K[19@g++ -Wall -o 6-2 6-2.cpp[C./6-2 [K[19@g++ -Wall -o 6-3 6-3.cpp[C./6-3 [K[19@g++ -Wall -o 6-3 6-3.cpp[C[1P[1@4[1P[1@4
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./6-4
+
+Please enther the first number
+then hit enter
+3
+Please enter the second number
+then hit enter
+12
+
+First: 12
+Second: 3
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./6-4g++ -Wall -o 6-4 6-4.cpp [C[1@o[1@p[1@2[C[C[C[C[1@o[1@p[1@2
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ g++ -Wall -o 6-4op2 6-4op2.cpp [1P[1@3[1@3[1P[1P[1@3
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./g++ -Wall -o 6-4op3 6-4op3.cpp 2 6-4op2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./6-4[Kg++ -Wall -o 6-4 6-4.cpp ./6-4[Kop2
+
+Enter hours spent traveling:
+15
+Please enter the distance traveld in miles:
+1 0 30150
+For taviling 30150 miles in 15 hours, you traveld at 2010mph
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./6-4op2[K3
+
+Please enther the first number
+then hit enter
+15
+Please enter grade number 1: 
+13
+Please enter grade number 2: 
+12
+Please enter grade number 3: 
+3
+Please enter grade number 4: 
+1509 
+Please enter grade number 5: 
+67
+Please enter grade number 6: 
+100
+Please enter grade number 7: 
+100
+Please enter grade number 8: 
+150
+Please enter grade number 9: 
+150
+Please enter grade number 10: 
+70
+Please enter grade number 11: 
+80
+Please enter grade number 12: 
+90
+Please enter grade number 13: 
+90
+Please enter grade number 14: 
+90
+Please enter grade number 15: 
+90
+The grade is a B!
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ ./6-4op3
+
+Please enther the first number
+then hit enter
+50
+Please enter grade number 1: 
+70
+Please enter grade number 2: 
+60
+Please enter grade number 3: 
+46
+Please enter grade number 4: 
+8
+Please enter grade number 5: 
+68
+Please enter grade number 6: 
+68
+Please enter grade number 7: 
+68
+Please enter grade number 8: 
+68
+Please enter grade number 9: 
+68
+Please enter grade number 10: 
+68
+Please enter grade number 11: 
+686
+Please enter grade number 12: 
+969
+Please enter grade number 13: 
+69
+Please enter grade number 14: 
+69
+Please enter grade number 15: 
+69
+Please enter grade number 16: 
+69
+Please enter grade number 17: 
+69
+Please enter grade number 18: 
+69
+Please enter grade number 19: 
+69
+Please enter grade number 20: 
+69
+Please enter grade number 21: 
+69
+Please enter grade number 22: 
+69
+Please enter grade number 23: 
+69
+Please enter grade number 24: 
+69
+Please enter grade number 25: 
+69
+Please enter grade number 26: 
+69
+Please enter grade number 27: 
+69
+Please enter grade number 28: 
+69
+Please enter grade number 29: 
+69
+Please enter grade number 30: 
+69
+Please enter grade number 31: 
+69
+Please enter grade number 32: 
+69
+6Please enter grade number 33: 
+9
+Please enter grade number 34: 
+69
+Please enter grade number 35: 
+69
+Please enter grade number 36: 
+69
+Please enter grade number 37: 
+69
+Please enter grade number 38: 
+69
+Please enter grade number 39: 
+69
+Please enter grade number 40: 
+69
+Please enter grade number 41: 
+69
+Please enter grade number 42: 
+69
+Please enter grade number 43: 
+69
+Please enter grade number 44: 
+69
+Please enter grade number 45: 
+69
+Please enter grade number 46: 
+69
+Please enter grade number 47: 
+69
+Please enter grade number 48: 
+69
+Please enter grade number 49: 
+69
+Please enter grade number 50: 
+69
+The grade is an A!
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ 69
+bash: 69: command not found...
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ 69
+bash: 69: command not found...
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab06[gd7848by@ahscentos lab06]$ exit
+
+Script done on Wed 04 Mar 2020 02:07:15 PM CST

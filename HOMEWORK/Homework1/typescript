@@ -1,0 +1,13 @@
+Script started on Mon 10 Feb 2020 01:01:49 PM CST
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework1[?1034h[gd7848by@ahscentos Homework1]$ ls
+[0m[38;5;34m3-19.a[0m  3-19.cpp  [38;5;34m3-20.a[0m  3-20.cpp  [38;5;34m3-21.a[0m  3-21.cpp  [38;5;34mlowestChange.a[0m  lowestChange.cpp  typescript
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK/Homework1[gd7848by@ahscentos Homework1]$ cd ..
+]0;gd7848by@ahscentos:~/CSCI201/HOMEWORK[gd7848by@ahscentos HOMEWORK]$ cd ..
+]0;gd7848by@ahscentos:~/CSCI201[gd7848by@ahscentos CSCI201]$ cd ..
+]0;gd7848by@ahscentos:~[gd7848by@ahscentos ~]$ cd ..
+]0;gd7848by@ahscentos:/home/STCLOUDSTATE[gd7848by@ahscentos STCLOUDSTATE]$ ls
+ls: cannot open directory .: Permission denied
+]0;gd7848by@ahscentos:/home/STCLOUDSTATE[gd7848by@ahscentos STCLOUDSTATE]$ cd ..
+]0;gd7848by@ahscentos:/home[gd7848by@ahscentos home]$ c[Kexit
+
+Script done on Mon 10 Feb 2020 01:02:02 PM CST

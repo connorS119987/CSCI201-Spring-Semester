@@ -1,0 +1,5 @@
+the out put for program 7.1 is 
+average 60
+highest 73
+lowest 45
+

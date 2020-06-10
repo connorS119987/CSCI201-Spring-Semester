@@ -1,0 +1,163 @@
+Script started on Wed 29 Jan 2020 03:17:41 PM CST
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab3[?1034h[gd7848by@ahscentos lab3]$ cat batAvg.cpp 
+// This program will determine the batting average of a player.
+// The number of hits and at bats are set internally in the program.
+
+// Connor Seemann
+// gd7848by
+// lab 3
+// 1/29/2020
+
+
+#include <iostream>
+using namespace std;
+
+const int AT_BAT = 421;
+const int HITS = 123;
+
+int main()
+{
+	double batAvg;
+
+	batAvg = static_cast<double>(HITS) / AT_BAT;			// an assignment statement
+
+	cout << "The batting average is " << batAvg << endl;	// output the result
+
+return 0;
+}
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab3[gd7848by@ahscentos lab3]$ ./ [KbatAvg.a 
+The batting average is 0.292162
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab3[gd7848by@ahscentos lab3]$ cat bill.a[Kcpp [K; ./b
+batAvg.a  bill.a    
+[gd7848by@ahscentos lab3]$ cat bill.cpp; ./b
+batAvg.a  bill.a    
+[gd7848by@ahscentos lab3]$ cat bill.cpp; ./bill.a 
+// Connor Seemann
+// gd7848by
+// Lab 3
+// 01/29/2020
+
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+int main()
+{
+    
+    int quantity;       // contains the amount of items purchased 
+    float itemPrice;    // contains the price of each item
+    float totalBill;    // contains the total bill.
+
+    cout << setprecision(2) << fixed << showpoint;  // formatted output
+ 
+    // prompts the user for the amount of the item bought and takes input
+    cout << "Please input the number of items bought: ";
+    cin >> quantity;
+
+    // asks user for the price of the item and takes the input
+    cout << endl << "Please enter the price for the item: ";
+    cin >> itemPrice;
+
+    // Fill in the assignment statement to determine the total bill.
+    // returns the total bill with a label
+    totalBill = itemPrice * quantity;
+    cout << "The total bill comes to $" << totalBill << endl;
+
+
+return 0;
+}
+Please input the number of items bought: 123
+
+Please enter the price for the item: .99   0.99
+The total bill comes to $121.77
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab3[gd7848by@ahscentos lab3]$ cat rightTrig.cpp ;[K[K; ./rightTrig.a 
+// This program will input the value of two sides of a right triangle and then
+// determine the size of the hypotenuse.
+
+// Connor Seemann
+// gd7848by
+// Lab 3
+// 1/29/2020
+
+#include <iostream>
+#include <cmath>    // needed for math functions like sqrt()
+using namespace std;
+
+int main()
+{
+    float a, b; // the smaller two sides of the triangle 
+    float hyp;  // the hypotenuse calculated by the program
+
+    cout << "Please input the value of the two sides" << endl;
+    cin >> a >> b;
+
+    // Fill in the assignment statement that determines the hypotenuse
+    hyp = sqrt( (a * a) + (b * b) );
+
+    cout << "The sides of the right triangle are " << a << " and " << b << endl;
+
+    cout << "The hypotenuse is " << hyp << endl;
+
+    return 0;
+}
+Please input the value of the two sides
+3 3
+The sides of the right triangle are 3 and 3
+The hypotenuse is 4.24264
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab3[gd7848by@ahscentos lab3]$ cat rightTrig.cpp; ./rightTrig.a [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcat tableData.cpp [K; ./tableData.a 
+// This program will bring in two prices and two quantities of items
+// from the keyboard and print those numbers in a formatted chart.
+
+// CONNOR SEEMANN
+// gd7848by
+// Lab 3
+// 1/29/2020
+
+
+#include <iostream>
+#include <iomanip>    // Fill in the code to bring in the library for formatted output
+using namespace std;
+
+int main()
+{
+    float price1, price2;       // The price of 2 items
+    int quantity1, quantity2;   // The quantity of 2 items
+
+    cout << setprecision(2) << fixed << showpoint;
+    cout << "Please input the price and quantity of the first item" << endl;
+
+    // Fill in the input statement that reads in price1 and
+    // quantity1 from the keyboard.
+    cin >> price1 >> quantity1;
+    
+    // Fill in the prompt for the second price and quantity.
+    cout << "Please enter the price and quantity of the second item" << endl;
+
+    // Fill in the input statement that reads in price2 and
+    // quantity2 from the keyboard.
+    cin >> price2 >> quantity2;
+
+    cout << setw(15) << "PRICE" << setw(12) << "QUANTITY\n\n";
+
+    // Fill in the output statement that prints the first price
+    // and quantity. Be sure to use setw() statements.
+    cout << setw(15) << price1 << setw(6) << quantity1 << endl;
+
+    // Fill in the output statement that prints the second price
+    // and quantity.
+    cout << setw(15) << price2 << setw(6) << quantity2 << endl;
+
+    return 0;
+}
+Please input the price and quantity of the first item
+12.99 55
+Please enter the price and quantity of the second item
+39.99 25
+          PRICE  QUANTITY
+
+          12.99    55
+          39.99    25
+]0;gd7848by@ahscentos:~/CSCI201/LAB/lab3[gd7848by@ahscentos lab3]$ exit
+
+Script done on Wed 29 Jan 2020 03:19:55 PM CST

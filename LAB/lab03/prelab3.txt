@@ -1,0 +1,15 @@
+Connor Seemann
+gd7848by
+Lab 3
+1/29/2020
+
+1) 18
+2) foo = (2*x)+pow(3,4)
+3) implicit type coercion or tuncation for floats
+4) type casting or type conversion 
+5) #include <iostream>
+6) white space
+7) insurtion operator
+8) iomanip
+9) returns to the next line
+

@@ -1,0 +1,5 @@
+the circumference of the circle is 33
+the area of the circle is 91
+these get truncated
+
+

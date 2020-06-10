@@ -1,0 +1,6 @@
+ the code in 5-1 would be affected by chaning the while loop to a do while loop by always going through one iteration
+ if you don't input any data and just use the -1 it shows that there was no data entered
+ if you keep entering zeros then there it shows that there has been no rainfall
+ the purpose for "if (month == 1)" is so that it ceatches that the user quit immideatly after running the code
+ if you don't enter one of the letters in the menu it will just reitterate the menu making you stuck there untill you enter a lsited option.
+it works exactly the same if you remove the "== True"

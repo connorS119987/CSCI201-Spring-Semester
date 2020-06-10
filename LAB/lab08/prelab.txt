@@ -1,0 +1,10 @@
+ 1) 0 and the last is one less
+ 2) type of data and the amount 
+ 3) for loop
+ 4) typedef
+ 5) nested for
+ 6) passed by pointer
+ 7) value or reference
+ 8) characters
+ 9) counter 
+10) n amount

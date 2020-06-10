@@ -1,0 +1,11 @@
+Connor Seemann gd7848by lab 5
+ 1) void
+ 2) reference
+ 3) actual
+ 4) type, names
+ 5) &
+ 6) procedures
+ 7) value
+ 8) type
+ 9) scope
+10) formal
